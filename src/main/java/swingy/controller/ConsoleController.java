@@ -1,7 +1,5 @@
 package swingy.controller;
 
-import swingy.model.character.CharacterType;
-
 public class ConsoleController {
 
     public static void selectHeroType() {
